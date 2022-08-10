@@ -1,1 +1,1 @@
-This is shard_files
+for shared files
